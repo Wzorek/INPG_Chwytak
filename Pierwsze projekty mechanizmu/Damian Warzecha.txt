@@ -1,0 +1,2 @@
+09.05.17 - Zapoznanie siê z oprogramowaniem SAM, wstêpne policzenie si³ niezbêdnych do okreœlenia wymaganej mocy serwomechanizmu przed ich zakupem.
+10.05.17 - Zmiana planu konstrukcji, zamodelowanie kszta³tu serwomechanizmu, ponowne projektowanie ramienia robota. 
