@@ -1,0 +1,6 @@
+Wtorek - 9.05
+Zapoznanie siê z Platform¹ https://www.xamarin.com/
+Zapoznanie siê z Platform¹ AndroidStudio
+Plan na œrodê:
+Kontynuuowanie "researchu" dotycz¹cego sposobu tworzenia aplikacji.
+Planowanie dotycz¹ce sposobu komunikacji urz¹drzenia z robotem
