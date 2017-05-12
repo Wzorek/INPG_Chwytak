@@ -1,3 +1,4 @@
 09.05.17 Pobranie oraz zapoznanie siê z podstawowymi komendami w Arduino IDE
 10.05.17 Poznawanie bibliotek w Arduino IDE oraz dalsze tworzenie prostych programów
 11.05.17 Nauka budowy zaawansowanych programów
+12.05.17 Dalsza nauka œrodowiska Arduino IDE
