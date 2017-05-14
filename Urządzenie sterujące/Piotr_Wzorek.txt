@@ -1,6 +1,26 @@
+Sobota - 13.05
+Szczegó³nowa analiza pracy na Platformie Xamarin.
+Podstawowa analiza korzystania z jêzyka C#.
+Konsultacje z znajomymi programistami.
+Ogl¹danie Tutoriali na YT i czytanie polsko i angielskojêzycznych forów.
+Plan na niedzielê:
+To samo co w sobotê.
+***********************************************************************************************************
+Œroda - 10.05
+Wybór modu³u komunikacji z robotem - WiFi.
+Ustalenie z £ukaszem Leœnym szczegó³ówego podzia³u pracy na najbli¿sze 2 dni. Zadaniem £ukasza jest
+analiza AndroidStudio, a moim https://www.xamarin.com/. W najbli¿szy poniedzia³ek zostanie podjêta
+decyzja, któr¹ z platform wybraæ.
+Plan na czwartek:
+Ze wzglêdu na nadmiar pracy w czwartek oraz pi¹tek, postawione przede mn¹ zadanie zrealizujê w weekend.
+Plan na sobotê i niedzielê:
+Szczegó³owa analiza Platformy Xamarin.
+***********************************************************************************************************
 Wtorek - 9.05
 Zapoznanie siê z Platform¹ https://www.xamarin.com/
 Zapoznanie siê z Platform¹ AndroidStudio
 Plan na œrodê:
 Kontynuuowanie "researchu" dotycz¹cego sposobu tworzenia aplikacji.
 Planowanie dotycz¹ce sposobu komunikacji urz¹drzenia z robotem
+***********************************************************************************************************
+***********************************************************************************************************
