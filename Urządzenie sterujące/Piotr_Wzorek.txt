@@ -1,3 +1,11 @@
+Sobota - 13.05
+Szczegó³nowa analiza pracy na Platformie Xamarin.
+Podstawowa analiza korzystania z jêzyka C#.
+Konsultacje z znajomymi programistami.
+Ogl¹danie Tutoriali na YT i czytanie polsko i angielskojêzycznych forów.
+Plan na niedzielê:
+To samo co w sobotê.
+***********************************************************************************************************
 Œroda - 10.05
 Wybór modu³u komunikacji z robotem - WiFi.
 Ustalenie z £ukaszem Leœnym szczegó³ówego podzia³u pracy na najbli¿sze 2 dni. Zadaniem £ukasza jest
