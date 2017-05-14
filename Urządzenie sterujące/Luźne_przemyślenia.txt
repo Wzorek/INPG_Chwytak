@@ -5,6 +5,7 @@ Xamarin
  – ksi¹¿ka do œci¹gniêcia https://mva.microsoft.com/ebooks#9780735697232
  – mniej tutoriali
  - sporo przyk³adów na WINTELECT.com
+ - mo¿liwoœæ pracy w Visual Studio (u³atwia programowanie)
 
 AndroidStudio
  – wymagana znajomoœæ Javy + IntelliJ
