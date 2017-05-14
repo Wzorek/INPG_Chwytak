@@ -1,3 +1,4 @@
 09. 05 wtorek - ogólne zapoznanie się ze środowiskiem Android Studio
  10.05 środ. - głębsze zapoznanie się z Android Studio i ocena pod kątem przydatności w naszym projekcie
  11.05 czwartek - rozejrzenie się za innymi nietrudnymi sposobami na pisanie aplikacji mobilnych.
+12. 05 - 14.05 - zawody w Poznaniu
