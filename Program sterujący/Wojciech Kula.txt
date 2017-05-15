@@ -2,3 +2,7 @@
 10.05.17 Poznawanie bibliotek w Arduino IDE oraz dalsze tworzenie prostych programów
 11.05.17 Nauka budowy zaawansowanych programów
 12.05.17 Dalsza nauka œrodowiska Arduino IDE
+
+15.05.17 Tworzenie programów s³u¿¹cych do komunikacji Arduino - PC 
+	Plan na nastêpny dzieñ - Tworzenie programów reaguj¹cych na sygna³y wejœciowe (miêdzy innymi na fotorezyskor)
+
