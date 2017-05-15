@@ -1,11 +1,11 @@
 Xamarin
  - raczej trudniejszy (na pierwszy rzut oka)
  - dla Windows, IOS i Android naraz
- – konieczna nauka C#
+ – konieczna nauka podstaw C#
  – ksi¹¿ka do œci¹gniêcia https://mva.microsoft.com/ebooks#9780735697232
- – mniej tutoriali
+ - Super tutoriale na https://elearning.xamarin.com
  - sporo przyk³adów na WINTELECT.com
- - mo¿liwoœæ pracy w Visual Studio (u³atwia programowanie)
+ - mo¿liwoœæ pracy w Visual Studio
 
 AndroidStudio
  – wymagana znajomoœæ Javy + IntelliJ
