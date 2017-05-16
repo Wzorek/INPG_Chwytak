@@ -1,2 +1,3 @@
-09.05.17 - Zapoznanie siê z oprogramowaniem SAM, wstêpne policzenie si³ niezbêdnych do okreœlenia wymaganej mocy serwomechanizmu przed ich zakupem.
-10.05.17 - Zmiana planu konstrukcji, zamodelowanie kszta³tu serwomechanizmu, ponowne projektowanie ramienia robota. 
+09.05.17 - Zapoznanie siÄ™ z oprogramowaniem SAM, wstÄ™pne policzenie siÅ‚ niezbÄ™dnych do okreÅ›lenia wymaganej mocy serwomechanizmu przed ich zakupem.
+10.05.17 - Zmiana planu konstrukcji, zamodelowanie ksztaÅ‚tu serwomechanizmu, ponowne projektowanie ramienia robota. 
+16.05.17 - Dalsze projektowanie konstrukcji. Podstawa, wraz z mocowaniem Arduino oraz drugi segment ruchomy. Jutro: projekt mechanizmu obrotu podstawy.
