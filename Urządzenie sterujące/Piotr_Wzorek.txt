@@ -1,3 +1,11 @@
+Poniedzia³ek - 16.05
+Wybór platformy - Xamarin
+Nauka elearning przy u¿yciu platformy Xamarin University
+Stworzenie pierwszej aplikacji na android.
+
+Plan na wtorek:
+Pierwszy commit z pierwsz¹ aplikacj¹ (bardzo prost¹)
+***********************************************************************************************************
 Niedziela - 14.05
 Instalacja Visual Studio
 Zapoznanie siê z charakterystyk¹ jêzyka C#
