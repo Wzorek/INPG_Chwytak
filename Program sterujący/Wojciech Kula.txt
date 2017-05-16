@@ -6,3 +6,10 @@
 15.05.17 Tworzenie programów s³u¿¹cych do komunikacji Arduino - PC 
 	Plan na nastêpny dzieñ - Tworzenie programów reaguj¹cych na sygna³y wejœciowe (miêdzy innymi na fotorezyskor)
 
+16.05.17 Utworzone programy:
+		-Auto dioda na fotorezyskor - Arduino po odczytaniu napiêcia z fotorezystora zapala ew. gasi diode w zale¿noœci od oporu fotorezystora(od natê¿enia œwiat³a padaj¹cego na niego)
+		-Kontrola stanu diody z konsoli PC - Z konsoli PC wysy³amy polecenia na które reaguje Arduino zmieniaj¹c stany diod
+	Oba programy sprawdzone na obwodach dia³aj¹ poprawnie
+	Plan na nastêpny dzieñ:
+		-Zakup serwomechanizmu
+		-Tworzenie programów wspó³graj¹cych z serwomechanizmem
