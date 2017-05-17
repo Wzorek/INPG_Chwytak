@@ -13,3 +13,8 @@
 	Plan na nastêpny dzieñ:
 		-Zakup serwomechanizmu
 		-Tworzenie programów wspó³graj¹cych z serwomechanizmem
+
+17.05.17 Zakup serwomechanizmów na allegro z powodu ich braku w sklepach z elektronik¹ w Krakowie, trening zarz¹dzania pinami PWM
+	
+	Plan na nastêpny dzieñ:
+		-Pod³¹czenie joystick'a do Arduino oraz tworzenie programów wspó³graj¹cych z nim
