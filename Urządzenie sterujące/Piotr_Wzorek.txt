@@ -1,4 +1,12 @@
-Poniedzia³ek - 16.05
+Wtorek - 16.05
+Wykonianie perwszej prymitywnej aplikacji na Android, która nie robi nic.
+Walka przez kilka godzin z komputerem, aby skutecznie zainstalowaæ emulator Androida (brak pamiêci, ró¿norakie b³êdy.
+Victoria w wspomnianej walce (uruchomienie aplikacji pod wirtualnym Androidem).
+
+Plan na œrodê:
+Æwiczenie jêzyka C# - proste programy (tak, bêdzie HelloWorld.)
+***********************************************************************************************************
+Poniedzia³ek - 15.05
 Wybór platformy - Xamarin
 Nauka elearning przy u¿yciu platformy Xamarin University
 Stworzenie pierwszej aplikacji na android.
