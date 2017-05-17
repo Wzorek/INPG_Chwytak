@@ -2,3 +2,7 @@
  10.05 środ. - głębsze zapoznanie się z Android Studio i ocena pod kątem przydatności w naszym projekcie
  11.05 czwartek - rozejrzenie się za innymi nietrudnymi sposobami na pisanie aplikacji mobilnych.
 12. 05 - 14.05 - zawody w Poznaniu
+15. 05 - dziś po konsultacji z Piotrem Wzorkiem ustaliliśmy że korzystamy z Xamarina
+         plan na jutro - pobrać oprogramowanie i zapoznać się z podstawami
+16. 05 - problemy z instalacją programu: brak wystarczającego miejsca, następnie brakowało elementów programu, które znów wykazały brak miejsca, po czym zrezygnowałem, całość i tak zajęła sporo czasu.
+         plan na jutro - ogarnięcie programu 

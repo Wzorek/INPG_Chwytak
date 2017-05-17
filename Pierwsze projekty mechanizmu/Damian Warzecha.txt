@@ -1,5 +1,5 @@
-09.05.17 - Zapoznanie siÍ z oprogramowaniem SAM, wstÍpne policzenie si≥ niezbÍdnych do okreúlenia wymaganej mocy serwomechanizmu przed ich zakupem.
-10.05.17 - Zmiana planu konstrukcji, zamodelowanie kszta≥tu serwomechanizmu, ponowne projektowanie ramienia robota. 
+09.05.17 - Zapoznanie siƒô z oprogramowaniem SAM, wstƒôpne policzenie si≈Ç niezbƒôdnych do okre≈õlenia wymaganej mocy serwomechanizmu przed ich zakupem.
+10.05.17 - Zmiana planu konstrukcji, zamodelowanie kszta≈Çtu serwomechanizmu, ponowne projektowanie ramienia robota. 
 11.05.17 - Kontynuacja prac nad modelem.
-16.05.17 - Wykonanie przybliøonego modelu podstawy robota. Jutro: Zamodelowanie 2 segmentu ramienia.
-17.05.17 - Poszerzenie informacji o elementach ruchomych w Inventorze, oraz utworzenie prototypu dzia≥ajπcego ramienia (do poprawy podstawa). Nieudane poszukiwania modelu arduino. PÛüniej: Przybliøony model arduino leonardo w celu wyznaczenia po≥oøenia otworÛw montaøowych. Dok≥adny model podstawy wraz z planem wykonania. Wykonanie rzutÛw prostokontnych, tak aby w trakcie weekendu moøna by≥o przystπpiÊ do wycinania.
+16.05.17 - Wykonanie przybli≈ºonego modelu podstawy robota. Jutro: Zamodelowanie 2 segmentu ramienia.
+17.05.17 - Poszerzenie informacji o elementach ruchomych w Inventorze, oraz utworzenie prototypu dzia≈ÇajƒÖcego ramienia (do poprawy podstawa). Nieudane poszukiwania modelu arduino. P√≥≈∫niej: Przybli≈ºony model arduino leonardo w celu wyznaczenia po≈Ço≈ºenia otwor√≥w monta≈ºowych. Dok≈Çadny model podstawy wraz z planem wykonania. Wykonanie rzut√≥w prostokontnych, tak aby w trakcie weekendu mo≈ºna by≈Ço przystƒÖpiƒá do wycinania.

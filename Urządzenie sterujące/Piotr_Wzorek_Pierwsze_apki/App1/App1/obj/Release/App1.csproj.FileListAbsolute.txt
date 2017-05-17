@@ -1,0 +1,12 @@
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Release\App1.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Release\App1.pdb
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Release\App1.App1.apk
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Release\App1.App1-Signed.apk
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\App1.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\App1.pdb
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\bin\App1.App1.apk
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\res\layout\main.xml
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\res\values\strings.xml
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\res\drawable\icon.png
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\R.cs.flag
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\uploadflags.txt
