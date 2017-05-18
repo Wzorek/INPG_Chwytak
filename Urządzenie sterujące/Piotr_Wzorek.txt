@@ -1,3 +1,11 @@
+Œroda - 17.05
+Przeczytanie garœci artyku³ów o C#.
+Obej¿enie ca³ej masy tutoriali na platformie YT o C# w tym dwa 1.5 dzinne wyk³ady.
+Wykonanie notatek z tego jêzyka oraz napisanie i kompilacja prymitywnego programu na konsolê Windows.
+
+Plan na czwartek:
+Wykonanie aplikacji zaplanowanej na 2 tydzieñ
+***********************************************************************************************************
 Wtorek - 16.05
 Wykonianie perwszej prymitywnej aplikacji na Android, która nie robi nic.
 Walka przez kilka godzin z komputerem, aby skutecznie zainstalowaæ emulator Androida (brak pamiêci, ró¿norakie b³êdy.
