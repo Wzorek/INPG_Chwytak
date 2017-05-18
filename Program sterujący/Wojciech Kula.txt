@@ -18,3 +18,9 @@
 	
 	Plan na nastêpny dzieñ:
 		-Pod³¹czenie joystick'a do Arduino oraz tworzenie programów wspó³graj¹cych z nim
+
+18.05.17 Pod³¹czenie joystick'a do Arduino oraz utworzenie programu które wysy³¹ do komputera informacjê a aktualnym po³o¿eniu osi oraz przycisku jaystick'a po uprzednim poprawieniu problemów z transmisj¹ danych
+	Utworzony program:
+		-Joystick
+
+	Plan na nastêpny dzieñ, stworzenie uk³adu oraz programu który za pomoc¹ joysticka bêdzie kontrolowa³ jasnoœæ 4 diod
