@@ -23,4 +23,7 @@
 	Utworzony program:
 		-Joystick
 
-	Plan na nastêpny dzieñ, stworzenie uk³adu oraz programu który za pomoc¹ joysticka bêdzie kontrolowa³ jasnoœæ 4 diod
+	Plan na nastêpny dzieñ, stworzenie uk³adu oraz programu który za pomoc¹ joystick'a bêdzie kontrolowa³ jasnoœæ 4 diod
+
+19.05.17 Utworzenie programu który zwraca liczby w zale¿noœci od wychylenia Joystick'a "Joystick2" 
+		Plan na weekend, do³o¿yæ do programu funkcje które we dane zamiast wysy³aæ na konsolê komputerow¹ prze³o¿y na jasnoœæ diod
