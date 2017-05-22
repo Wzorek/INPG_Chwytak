@@ -27,3 +27,7 @@
 
 19.05.17 Utworzenie programu który zwraca liczby w zale¿noœci od wychylenia Joystick'a "Joystick2" 
 		Plan na weekend, do³o¿yæ do programu funkcje które we dane zamiast wysy³aæ na konsolê komputerow¹ prze³o¿y na jasnoœæ diod
+
+22.05.17 Spotkanie organizacyjne, ustalenie planu na nastêpny tydzieñ oraz commit programu z Joystick3 który ze wzglêdy na wychylenie joysticka ustawia podœwietlenie odpowiedniej diody
+	
+	Plan na nastêpny dzieñ uruchomienie modu³u wifi oraz pierwsze kroki w komunikacji 
