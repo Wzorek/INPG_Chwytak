@@ -31,3 +31,7 @@
 22.05.17 Spotkanie organizacyjne, ustalenie planu na nastêpny tydzieñ oraz commit programu z Joystick3 który ze wzglêdy na wychylenie joysticka ustawia podœwietlenie odpowiedniej diody
 	
 	Plan na nastêpny dzieñ uruchomienie modu³u wifi oraz pierwsze kroki w komunikacji 
+
+23.05.17 Pod³¹czenie esp8266(modu³u wifi) do Arduino oraz pierwsze próby nawi¹zania po³¹czenia
+	
+	Plan na nastêpny dzieñ: kolejne próby nawi¹zania po³¹czenia w przypadku powodzenia po³¹czenie esp8266 z internetem oraz pisanie pierwszych programów
