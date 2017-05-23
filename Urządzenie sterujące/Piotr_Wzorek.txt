@@ -1,3 +1,10 @@
+Poniedzia³ek - 22.05
+Spotkanie z innymi cz³onkami zespo³u. Ustalenie celu na przysz³y tydzieñ - po³¹cznie arduino z aplikacj¹ mobiln¹.
+Poszukiwanie rozwi¹zañ przedstawionego problemu. Instalacja pluginu "Xamarin Connectivity".
+
+Plan na wtorek:
+Test po³¹czenia aplikacji mobilnej z internetem. Proste programy.
+***********************************************************************************************************
 Pi¹tek - 19.05
 Udzia³ w Rajdzie Elektryka - brak pracy nad projektem
 
