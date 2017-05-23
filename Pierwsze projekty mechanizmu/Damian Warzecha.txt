@@ -7,3 +7,5 @@
 19.05.17 - Wycięcie prawie wszystkich dotychczas zaprojektowanych elementów ze sklejki. Przygotowanie podstawy pod frezarkę, która ułatwi dalszą pracę. Jutro: Udanie się do sklepu po śrubki, wycięcie ostatnich elementów i prace nad obrotową podstawą.
 20.05.17 - Ukończenie konstrukcji, poza ostatnim elementem, który musi być dopasowany do chwytaka. Jutro: Pierwsze testy ruchomości. Rozwiązanie problemu sterowania matematycznie.
 21.05.17 - Wycięcie prototypu 2 segmentu ramienia, złożenie całego ramienia oraz test podstawy obrotowej. Jutro: jeśli dotrą serwa to złożenie całości wraz z napędem.
+22.05.17 - **brak commita na czas bo git mi zwariował :( ** Czekanie na serwa. Wyrównanie platformy obrotowej. Jutro: Dalsze oczekiwanie, rozwiązanie problemu sterowania matematycznie.
+23.05.17 - Próby wyznaczenia funkcji 2 zmiennych jednoznacznie wyznaczającej położenie chwytaka w przestrzeni. Jutro: Dalszy ciąg zmagań z funkcją i czekanie na kuriera
