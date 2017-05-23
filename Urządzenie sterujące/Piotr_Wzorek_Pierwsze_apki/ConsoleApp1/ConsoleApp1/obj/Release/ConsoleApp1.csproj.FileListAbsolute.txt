@@ -1,6 +1,0 @@
-D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
-D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.exe
-D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\bin\Release\ConsoleApp1.pdb
-D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.exe
-D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.pdb
-D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\obj\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
