@@ -1,0 +1,3 @@
+D:\Studia\Semestr 2\Xamarin\FinalApp\FinalApp\FinalApp.Android\obj\Release\FinalApp.Android.csprojResolveAssemblyReference.cache
+D:\Studia\Semestr 2\Xamarin\FinalApp\FinalApp\FinalApp.Android\obj\Release\FinalApp.Droid.MainPage.xaml.g.cs
+D:\Studia\Semestr 2\Xamarin\FinalApp\FinalApp\FinalApp.Android\obj\Release\FinalApp.Droid.App.xaml.g.cs
