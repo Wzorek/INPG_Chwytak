@@ -1,0 +1,6 @@
+D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Studia\Semestr 2\Xamarin\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
