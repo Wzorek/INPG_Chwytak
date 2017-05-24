@@ -14,3 +14,4 @@ iem ustaliliśmy że korzystamy z Xamarina
 19.05 - 21.05 piątek, sobota, niedziela - Rajd Elektryka z Wojtkiem Tomasiewiczem i Piotrem Wzorkiem 
 22.05 poniedziałek - podsumowanie drugiego tygodnia na zajęciach i ustalenie planu na nastepny tydzień. Osobiście nie udało się się wykonać planu na ten tydzień, ale jako dwuosobowy zespół z Piotrem Wzorkiem zrealizowaliśmy cel-dzialajacy przycisk na ekranie. 
 23.05 wtorek - konsultacje w sprawie instalacji Xanmarina, znalazłem studenta korzystającego z tej platformy w pracy zawodowej, który przyszedł pomóc, niestety nie udało się rozwiązać problemu instalacji, jednak ta znajomość z pewnością zaowocuje w razie problemow natury programistycznej
+24.05 środa - poprawne uruchomienie emulatora Androida w AndroidStudio do testowania aplikacji (problemem było wyłączone Intel Virtualization Technology w opcjach BIOSu
