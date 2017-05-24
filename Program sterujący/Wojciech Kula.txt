@@ -35,3 +35,7 @@
 23.05.17 Pod³¹czenie esp8266(modu³u wifi) do Arduino oraz pierwsze próby nawi¹zania po³¹czenia
 	
 	Plan na nastêpny dzieñ: kolejne próby nawi¹zania po³¹czenia w przypadku powodzenia po³¹czenie esp8266 z internetem oraz pisanie pierwszych programów
+
+24.05.17 Próbu aktualizacji oprogramowania esp8266 oraz komunikacji z nim zakoñczone niepowodzeniem
+
+	Plan na nastêpny dzieñ: Powtórka z dnia poprzedniego...
