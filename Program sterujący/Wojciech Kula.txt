@@ -39,3 +39,7 @@
 24.05.17 Próbu aktualizacji oprogramowania esp8266 oraz komunikacji z nim zakoñczone niepowodzeniem
 
 	Plan na nastêpny dzieñ: Powtórka z dnia poprzedniego...
+
+25.05.17 Dalsze próbu aktualizacji i komunikacji z ESP. Wykryty b³¹d na p³ytce Arduino który nie zezwala na komunikacjê z ESP poprzez p³ytkê, komendy serial portu równie¿ nie dzia³aj¹
+
+	Plan na nastêpny dzieñ: Zakup bezpoœredniego konwertera dla ESP, oraz dalsze próby komunikacji z ESP
