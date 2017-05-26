@@ -7,3 +7,4 @@
 19-22.05 - obsługa konsoli, transmisji danych przez wifi, przygotowanie arduin do rozmowy, na następny dzień planowanie sprintu.
 23.05 - połączenie arduino IDE z Xamarinem, na następny dzień wykorzytanie wifi w arduino.
 24-25.05 - wifi w arduino, testowanie fizycznego działania (brak uploadu), na następny dzień różnicowanie pwm
+26.05 - różnicowanie pwm, na następny dzień obsługa pakietów 
