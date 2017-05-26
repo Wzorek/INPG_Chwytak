@@ -16,3 +16,4 @@ iem ustaliliśmy że korzystamy z Xamarina
 23.05 wtorek - konsultacje w sprawie instalacji Xanmarina, znalazłem studenta korzystającego z tej platformy w pracy zawodowej, który przyszedł pomóc, niestety nie udało się rozwiązać problemu instalacji, jednak ta znajomość z pewnością zaowocuje w razie problemow natury programistycznej
 24.05 środa - poprawne uruchomienie emulatora Androida w AndroidStudio do testowania aplikacji (problemem było wyłączone Intel Virtualization Technology w opcjach BIOSu
 25.05 czwartek - po naprawieniu kolejnych problemów udało się uruchomić program helloworld w AndroidStudio
+26.06 piątek - dziś wracam do domu, jazda pociągiem 6h na podłodze mówi sama za siebie
