@@ -39,3 +39,5 @@
 24.05.17 Próbu aktualizacji oprogramowania esp8266 oraz komunikacji z nim zakoñczone niepowodzeniem
 
 	Plan na nastêpny dzieñ: Powtórka z dnia poprzedniego...
+
+26.05.17 Zakup konwertera UART dla ESP 
