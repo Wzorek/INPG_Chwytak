@@ -10,3 +10,5 @@
 22.05.17 - **brak commita na czas bo git mi zwariował :( ** Czekanie na serwa. Wyrównanie platformy obrotowej. Jutro: Dalsze oczekiwanie, rozwiązanie problemu sterowania matematycznie.
 23.05.17 - Próby wyznaczenia funkcji 2 zmiennych jednoznacznie wyznaczającej położenie chwytaka w przestrzeni. Jutro: Dalszy ciąg zmagań z funkcją i czekanie na kuriera
 24.05.17 - Kuriera wciąż brak. Opracowanie wzorów: x=l1*sin(a)-l2*sin(a+b) i y=h+l1cos(a)-l2*cos(a+b)
+25.05.17 - Dzień stagnacji ze względu na brak kuriera. Jutro: Dokładne ustalenia co do metody zamocowania chwytaka na ramieniu.
+26.05.17 - Wykonanie precyzyjnych pomiarów końcówki ramienia wraz z możliwością dostosowania jego szerokości poprzez odpowiednie skręcenie śrubek. Jutro: Na podstawie wyżej podanych wzorów opracowanie funkcji, które umożliwią sterowanie chwytakiem.
