@@ -12,3 +12,5 @@
 24.05.17 - Kuriera wciąż brak. Opracowanie wzorów: x=l1*sin(a)-l2*sin(a+b) i y=h+l1cos(a)-l2*cos(a+b)
 25.05.17 - Dzień stagnacji ze względu na brak kuriera. Jutro: Dokładne ustalenia co do metody zamocowania chwytaka na ramieniu.
 26.05.17 - Wykonanie precyzyjnych pomiarów końcówki ramienia wraz z możliwością dostosowania jego szerokości poprzez odpowiednie skręcenie śrubek. Jutro: Na podstawie wyżej podanych wzorów opracowanie funkcji, które umożliwią sterowanie chwytakiem.
+27.05.17 - Praca nad funkcjami, którymi będziemy sterować robotem. Jutro: Ciąg dalszy prac nad tym samym.
+28.05.17 - Nic szczególnego mi z tego nie wyszło. Jeśli nie przyjdą serwa to jutro wciąż to samo.
