@@ -44,4 +44,8 @@
 
 	Plan na nastêpny dzieñ: Zakup bezpoœredniego konwertera dla ESP, oraz dalsze próby komunikacji z ESP
 
-	SUKCES!!! Po wielu wysi³kach ESP odebra³o komunikat wys³any bezpoœrednio przez konwerter UART
+26.05.17 Zakup konwertera UART dla ESP 
+
+29.05.17 Uzyskanie reakcji na transmisje danych w stronê ESP poprzez konwerter UART, ci¹g³y brak powodzenia w aktualizacji ESP
+
+	Plan na nastêpny dzieñ: Dalsze próby aktualizacji ESP

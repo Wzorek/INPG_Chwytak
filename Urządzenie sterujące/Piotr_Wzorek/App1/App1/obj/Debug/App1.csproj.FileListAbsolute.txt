@@ -1,0 +1,15 @@
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Debug\App1.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Debug\App1.pdb
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Debug\App1.App1.apk
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Debug\App1.App1-Signed.apk
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\App1.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\App1.pdb
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\android\bin\App1.App1.apk
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\res\layout\main.xml
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\res\values\strings.xml
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\res\drawable\icon.png
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\R.cs.flag
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\uploadflags.txt
+D:\Studia\Semestr 2\Xamarin\App1\App1\bin\Debug\App1.dll.mdb
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Debug\android\assets\App1.dll.mdb

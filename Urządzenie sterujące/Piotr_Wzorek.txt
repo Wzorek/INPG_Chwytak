@@ -1,81 +1,112 @@
-Poniedzia³ek - 22.05
-Spotkanie z innymi cz³onkami zespo³u. Ustalenie celu na przysz³y tydzieñ - po³¹cznie arduino z aplikacj¹ mobiln¹.
-Poszukiwanie rozwi¹zañ przedstawionego problemu. Instalacja pluginu "Xamarin Connectivity".
+ï»¿PiÄ…tek - 26.05
+Informacje w poniÅ¼szej "UWADZE"
+
+Plan na poniedziaÅ‚ek:
+Instalacja Android Stuido i pierwsze programy. Badanie znalezionej na GitHubie aplikacji.
+***********************************************************************************************************
+***********************************************************************************************************
+					!!!!   UWAGA   !!!!
+W czwartek mÃ³j komputer, z nieznanych przyczyn, doznaÅ‚ powaÅ¼nej awarii systemu operacyjnego. Probelmy z 
+certyfikatami, problemy z dostÄ™pem do podstawowych funckji Windowsa, a pÃ³Åºniej nieustannie pojawiajÄ…cy 
+sie tzw. bluescreen uniemoÅ¼liwiÅ‚ mi pracÄ™ na komputerze. Praca nad naprawÄ… dysku, nie przynosiÅ‚a Å¼adnych
+skutkÃ³w mimo poÅ›wiÄ™conego czasu. Komputer doporowadziÄ‡ do akceptowalnego stanu udaÅ‚o mi siÄ™ dopiero teraz
+(29.05.2017 - godzina 01:17). W zwiÄ…zku z powyÅ¼szym nie zrealizowaÅ‚em planu na ten tydzieÅ„. Sytuacja ma
+charatker zdarzenia losowego - nic nie mogÅ‚em poradziÄ‡. Od dzisiaj zamerzam wrÃ³ciÄ‡ do wczeÅ›niejszego trybu
+pracy, ktÃ³ry uwaÅ¼am za zadawalajÄ…cy. 
+***********************************************************************************************************
+***********************************************************************************************************
+Åšroda - 24.05
+KilkanaÅ›cie bÅ‚Ä™dÃ³w w aplikacji Visual Studio i, mimo h pracy i szukania rozwiÄ…zaÅ„, nie udaÅ‚o mi siÄ™ poprawnie
+skompilowaÄ‡ Å¼adnego programu - Å‚Ä…cznie z programami "domyÅ›lnymi". PodjÄ™liÅ›my decyzje o zmianie platformy, na
+Android Studio (poniewaÅ¼ Åukasz rÃ³wnieÅ¼ ma problemy)
+
+Plan na czwartek:
+Instalacja Android Stuido i pierwsze programy.
+***********************************************************************************************************
+Wtorek - 23.05
+Stworzenie aplikacji Xamarin.Forms. OkazaÅ‚o siÄ™ bowiem, Å¼e plugin dziaÅ‚a tylko w aplikacjiach miÄ™dzyplatfomowych.
+
+Plan na Å›rodÄ™:
+Impikacja programÃ³w Xamarin.Forms i nauka skÅ‚adni (na nowo...)
+***********************************************************************************************************
+PoniedziaÅ‚ek - 22.05
+Spotkanie z innymi czÅ‚onkami zespoÅ‚u. Ustalenie celu na przyszÅ‚y tydzieÅ„ - poÅ‚Ä…cznie arduino z aplikacjÄ… mobilnÄ….
+Poszukiwanie rozwiÄ…zaÅ„ przedstawionego problemu. Instalacja pluginu "Xamarin Connectivity".
 
 Plan na wtorek:
-Test po³¹czenia aplikacji mobilnej z internetem. Proste programy.
+Test poÅ‚Ä…czenia aplikacji mobilnej z internetem. Proste programy.
 ***********************************************************************************************************
-Pi¹tek - 19.05
-Udzia³ w Rajdzie Elektryka - brak pracy nad projektem
+PiÄ…tek - 19.05
+UdziaÅ‚ w Rajdzie Elektryka - brak pracy nad projektem
 
-Plan na poniedzia³ek:
-Spotkanie z innymi cz³onkami zespo³u. Ustalenie celu na przysz³y tydzieñ. Indywidualne zaplanowanie pracy
+Plan na poniedziaÅ‚ek:
+Spotkanie z innymi czÅ‚onkami zespoÅ‚u. Ustalenie celu na przyszÅ‚y tydzieÅ„. Indywidualne zaplanowanie pracy
 nad nowym celem i przygotowanie techniczne.
 ***********************************************************************************************************
 Czwartek - 18.05
-Wykona³em aplikacjê zaplanowan¹ na ten tydzieñ - szczegó³y w Trello. 
+WykonaÅ‚em aplikacjÄ™ zaplanowanÄ… na ten tydzieÅ„ - szczegÃ³Å‚y w Trello. 
 
-Plan na pi¹tek:
-W pi¹tek wyjeŸdzam na Rajd Elektryka - nie bêdê w stanie wykonaæ pracy zwi¹zanej z projektem.
+Plan na piÄ…tek:
+W piÄ…tek wyjeÅºdzam na Rajd Elektryka - nie bÄ™dÄ™ w stanie wykonaÄ‡ pracy zwiÄ…zanej z projektem.
 ***********************************************************************************************************
-Œroda - 17.05
-Przeczytanie garœci artyku³ów o C#.
-Obej¿enie ca³ej masy tutoriali na platformie YT o C# w tym dwa 1.5 dzinne wyk³ady.
-Wykonanie notatek z tego jêzyka oraz napisanie i kompilacja prymitywnego programu na konsolê Windows.
+Åšroda - 17.05
+Przeczytanie garÅ›ci artykuÅ‚Ã³w o C#.
+ObejÅ¼enie caÅ‚ej masy tutoriali na platformie YT o C# w tym dwa 1.5 dzinne wykÅ‚ady.
+Wykonanie notatek z tego jÄ™zyka oraz napisanie i kompilacja prymitywnego programu na konsolÄ™ Windows.
 
 Plan na czwartek:
-Wykonanie aplikacji zaplanowanej na 2 tydzieñ
+Wykonanie aplikacji zaplanowanej na 2 tydzieÅ„
 ***********************************************************************************************************
 Wtorek - 16.05
-Wykonianie perwszej prymitywnej aplikacji na Android, która nie robi nic.
-Walka przez kilka godzin z komputerem, aby skutecznie zainstalowaæ emulator Androida (brak pamiêci, ró¿norakie b³êdy.
+Wykonianie perwszej prymitywnej aplikacji na Android, ktÃ³ra nie robi nic.
+Walka przez kilka godzin z komputerem, aby skutecznie zainstalowaÄ‡ emulator Androida (brak pamiÄ™ci, rÃ³Å¼norakie bÅ‚Ä™dy.
 Victoria w wspomnianej walce (uruchomienie aplikacji pod wirtualnym Androidem).
 
-Plan na œrodê:
-Æwiczenie jêzyka C# - proste programy (tak, bêdzie HelloWorld.)
+Plan na Å›rodÄ™:
+Ä†wiczenie jÄ™zyka C# - proste programy (tak, bÄ™dzie HelloWorld.)
 ***********************************************************************************************************
-Poniedzia³ek - 15.05
-Wybór platformy - Xamarin
-Nauka elearning przy u¿yciu platformy Xamarin University
+PoniedziaÅ‚ek - 15.05
+WybÃ³r platformy - Xamarin
+Nauka elearning przy uÅ¼yciu platformy Xamarin University
 Stworzenie pierwszej aplikacji na android.
 
 Plan na wtorek:
-Pierwszy commit z pierwsz¹ aplikacj¹ (bardzo prost¹)
+Pierwszy commit z pierwszÄ… aplikacjÄ… (bardzo prostÄ…)
 ***********************************************************************************************************
 Niedziela - 14.05
 Instalacja Visual Studio
-Zapoznanie siê z charakterystyk¹ jêzyka C#
+Zapoznanie siÄ™ z charakterystykÄ… jÄ™zyka C#
 Instalacja platformy Xamarin
 
-Plan na poniedzia³ek:
-Zapoznanie siê z Platform¹ Xamarin
-Spotkanie z pozosta³ymi cz³onkami grupy. Analiza postêpów. Dalszy plan
+Plan na poniedziaÅ‚ek:
+Zapoznanie siÄ™ z PlatformÄ… Xamarin
+Spotkanie z pozostaÅ‚ymi czÅ‚onkami grupy. Analiza postÄ™pÃ³w. Dalszy plan
 ***********************************************************************************************************
 Sobota - 13.05
-Szczegó³nowa analiza pracy na Platformie Xamarin.
-Podstawowa analiza korzystania z jêzyka C#.
+SzczegÃ³Å‚nowa analiza pracy na Platformie Xamarin.
+Podstawowa analiza korzystania z jÄ™zyka C#.
 Konsultacje z znajomymi programistami.
-Ogl¹danie Tutoriali na YT i czytanie polsko i angielskojêzycznych forów.
+OglÄ…danie Tutoriali na YT i czytanie polsko i angielskojÄ™zycznych forÃ³w.
 
-Plan na niedzielê:
-To samo co w sobotê.
+Plan na niedzielÄ™:
+To samo co w sobotÄ™.
 ***********************************************************************************************************
-Œroda - 10.05
-Wybór modu³u komunikacji z robotem - WiFi.
-Ustalenie z £ukaszem Leœnym szczegó³ówego podzia³u pracy na najbli¿sze 2 dni. Zadaniem £ukasza jest
-analiza AndroidStudio, a moim https://www.xamarin.com/. W najbli¿szy poniedzia³ek zostanie podjêta
-decyzja, któr¹ z platform wybraæ.
+Åšroda - 10.05
+WybÃ³r moduÅ‚u komunikacji z robotem - WiFi.
+Ustalenie z Åukaszem LeÅ›nym szczegÃ³Å‚Ã³wego podziaÅ‚u pracy na najbliÅ¼sze 2 dni. Zadaniem Åukasza jest
+analiza AndroidStudio, a moim https://www.xamarin.com/. W najbliÅ¼szy poniedziaÅ‚ek zostanie podjÄ™ta
+decyzja, ktÃ³rÄ… z platform wybraÄ‡.
 
 Plan na czwartek:
-Ze wzglêdu na nadmiar pracy w czwartek oraz pi¹tek, postawione przede mn¹ zadanie zrealizujê w weekend.
-Plan na sobotê i niedzielê:
-Szczegó³owa analiza Platformy Xamarin.
+Ze wzglÄ™du na nadmiar pracy w czwartek oraz piÄ…tek, postawione przede mnÄ… zadanie zrealizujÄ™ w weekend.
+Plan na sobotÄ™ i niedzielÄ™:
+SzczegÃ³Å‚owa analiza Platformy Xamarin.
 ***********************************************************************************************************
 Wtorek - 9.05
-Zapoznanie siê z Platform¹ https://www.xamarin.com/
-Zapoznanie siê z Platform¹ AndroidStudio
+Zapoznanie siÄ™ z PlatformÄ… https://www.xamarin.com/
+Zapoznanie siÄ™ z PlatformÄ… AndroidStudio
 
-Plan na œrodê:
-Kontynuuowanie "researchu" dotycz¹cego sposobu tworzenia aplikacji.
-Planowanie dotycz¹ce sposobu komunikacji urz¹drzenia z robotem
+Plan na Å›rodÄ™:
+Kontynuuowanie "researchu" dotyczÄ…cego sposobu tworzenia aplikacji.
+Planowanie dotyczÄ…ce sposobu komunikacji urzÄ…drzenia z robotem
 ***********************************************************************************************************

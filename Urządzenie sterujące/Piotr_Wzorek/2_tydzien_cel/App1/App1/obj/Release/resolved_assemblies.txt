@@ -1,0 +1,11 @@
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\App1.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\Java.Interop.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\Microsoft.CSharp.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\Mono.Android.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\mscorlib.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\System.Core.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\System.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\System.Xml.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\Mono.CSharp.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\Studia\Semestr 2\Xamarin\App1\App1\obj\Release\android\assets\Mono.Security.dll
