@@ -14,3 +14,4 @@
 26.05.17 - Wykonanie precyzyjnych pomiarów końcówki ramienia wraz z możliwością dostosowania jego szerokości poprzez odpowiednie skręcenie śrubek. Jutro: Na podstawie wyżej podanych wzorów opracowanie funkcji, które umożliwią sterowanie chwytakiem.
 27.05.17 - Praca nad funkcjami, którymi będziemy sterować robotem. Jutro: Ciąg dalszy prac nad tym samym.
 28.05.17 - Nic szczególnego mi z tego nie wyszło. Jeśli nie przyjdą serwa to jutro wciąż to samo.
+29.05.17 - Zapoznanie się z wariantami sterowania podobnymi robotami w sieci.
