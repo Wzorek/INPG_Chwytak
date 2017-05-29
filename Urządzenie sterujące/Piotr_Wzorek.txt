@@ -1,4 +1,11 @@
-﻿UWAGA!!!!
+﻿Piątek - 26.05
+Informacje w poniższej "UWADZE"
+
+Plan na poniedziałek:
+Instalacja Android Stuido i pierwsze programy. Badanie znalezionej na GitHubie aplikacji.
+***********************************************************************************************************
+***********************************************************************************************************
+					!!!!   UWAGA   !!!!
 W czwartek mój komputer, z nieznanych przyczyn, doznał poważnej awarii systemu operacyjnego. Probelmy z 
 certyfikatami, problemy z dostępem do podstawowych funckji Windowsa, a później nieustannie pojawiający 
 sie tzw. bluescreen uniemożliwił mi pracę na komputerze. Praca nad naprawą dysku, nie przynosiła żadnych
@@ -6,6 +13,7 @@ skutków mimo poświęconego czasu. Komputer doporowadzić do akceptowalnego sta
 (29.05.2017 - godzina 01:17). W związku z powyższym nie zrealizowałem planu na ten tydzień. Sytuacja ma
 charatker zdarzenia losowego - nic nie mogłem poradzić. Od dzisiaj zamerzam wrócić do wcześniejszego trybu
 pracy, który uważam za zadawalający. 
+***********************************************************************************************************
 ***********************************************************************************************************
 Środa - 24.05
 Kilkanaście błędów w aplikacji Visual Studio i, mimo h pracy i szukania rozwiązań, nie udało mi się poprawnie
