@@ -1,4 +1,11 @@
-﻿Piątek - 26.05
+﻿Poniedziałek - 29.05
+Instalowanie Android Studio i innych niezbędnych programów. Pisanie prostej aplikacji
+"Hallo World" i zapoznawanie się ze skladnią JAVAy
+
+Plan na wtorek:
+Layout docelowej aplikacji.
+***********************************************************************************************************
+Piątek - 26.05
 Informacje w poniższej "UWADZE"
 
 Plan na poniedziałek:
@@ -13,6 +20,7 @@ skutków mimo poświęconego czasu. Komputer doporowadzić do akceptowalnego sta
 (29.05.2017 - godzina 01:17). W związku z powyższym nie zrealizowałem planu na ten tydzień. Sytuacja ma
 charatker zdarzenia losowego - nic nie mogłem poradzić. Od dzisiaj zamerzam wrócić do wcześniejszego trybu
 pracy, który uważam za zadawalający. 
+
 ***********************************************************************************************************
 ***********************************************************************************************************
 Środa - 24.05
