@@ -49,3 +49,7 @@
 29.05.17 Uzyskanie reakcji na transmisje danych w stronê ESP poprzez konwerter UART, ci¹g³y brak powodzenia w aktualizacji ESP
 
 	Plan na nastêpny dzieñ: Dalsze próby aktualizacji ESP
+
+30.05.17 ESP poprawnie komunikuje siê za pomoc¹ komend AT, dalszy brak postêpów w aktualizacji (prawdopodobnie aktualne sterowniki z 2015r s¹ najnowszymi dostêpnymi)
+
+	Plan na nastêpny dzieñ: nauka obs³ugi ESP za pomoc¹ komend AT i próby komunikacji z Arduino
