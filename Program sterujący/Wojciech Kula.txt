@@ -40,4 +40,20 @@
 
 	Plan na nastêpny dzieñ: Powtórka z dnia poprzedniego...
 
+25.05.17 Dalsze próbu aktualizacji i komunikacji z ESP. Wykryty b³¹d na p³ytce Arduino który nie zezwala na komunikacjê z ESP poprzez p³ytkê, komendy serial portu równie¿ nie dzia³aj¹
+
+	Plan na nastêpny dzieñ: Zakup bezpoœredniego konwertera dla ESP, oraz dalsze próby komunikacji z ESP
+
 26.05.17 Zakup konwertera UART dla ESP 
+
+29.05.17 Uzyskanie reakcji na transmisje danych w stronê ESP poprzez konwerter UART, ci¹g³y brak powodzenia w aktualizacji ESP
+
+	Plan na nastêpny dzieñ: Dalsze próby aktualizacji ESP
+
+30.05.17 ESP poprawnie komunikuje siê za pomoc¹ komend AT, dalszy brak postêpów w aktualizacji (prawdopodobnie aktualne sterowniki z 2015r s¹ najnowszymi dostêpnymi)
+
+	Plan na nastêpny dzieñ: nauka obs³ugi ESP za pomoc¹ komend AT i próby komunikacji z Arduino
+
+31.05.17 Obs³uga ESP za pomoc¹ AT
+
+	Plan na nastêpny dzieñ: próby komunikacji ESP i Arduino
