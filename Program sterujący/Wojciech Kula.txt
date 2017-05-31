@@ -53,3 +53,7 @@
 30.05.17 ESP poprawnie komunikuje siê za pomoc¹ komend AT, dalszy brak postêpów w aktualizacji (prawdopodobnie aktualne sterowniki z 2015r s¹ najnowszymi dostêpnymi)
 
 	Plan na nastêpny dzieñ: nauka obs³ugi ESP za pomoc¹ komend AT i próby komunikacji z Arduino
+
+31.05.17 Obs³uga ESP za pomoc¹ AT
+
+	Plan na nastêpny dzieñ: próby komunikacji ESP i Arduino
