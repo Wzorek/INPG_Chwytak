@@ -1,4 +1,13 @@
-﻿Poniedziałek - 29.05
+﻿Wtorek - 29.05
+Iplementacja prostego joysticka kożystając z bibliotek dostępnych na GitHubie.
+
+Plan na środę:
+Nauka na kolokwium z Probabilistyki... niestety...
+
+Plan na czwartek:
+Ulepszanie joysticka i obsługa WiFi.
+***********************************************************************************************************
+Poniedziałek - 29.05
 Instalowanie Android Studio i innych niezbędnych programów. Pisanie prostej aplikacji
 "Hallo World" i zapoznawanie się ze skladnią JAVAy
 
