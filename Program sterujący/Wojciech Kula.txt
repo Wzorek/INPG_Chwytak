@@ -61,3 +61,9 @@
 1.06.17 Pierwsze próby komunikacji pomiêdzy ESP i Arduino
 
 	Plan na nastêpny dzieñ: spotkanie grupowe maj¹ce na celu skompletowanie i uruchomienie ca³oœci
+
+2.06.17 Spotkanie grupowe maj¹ce na calu uruchomienie ca³oœci zakoñczone czêœciowym powodzeniem
+
+3.06.17 Kontynuacja za³o¿eñ ze spotkania uruchomienie komunikacji po zewnêtrznym serialu 
+
+	Plan na nastêny dzieñ utworzenie ca³oœciowego programu 
