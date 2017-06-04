@@ -1,4 +1,11 @@
-﻿Wtorek - 29.05
+﻿Czwartek - 1.06
+Stworzenie joystika. Radzenie sobię z problemami w kompilacji. Porażka. Stworzenie nowego
+przystępnego layoutu.
+
+Plan na piątek:
+Komunikacjia WiFi.
+***********************************************************************************************************
+Wtorek - 29.05
 Iplementacja prostego joysticka kożystając z bibliotek dostępnych na GitHubie.
 
 Plan na środę:

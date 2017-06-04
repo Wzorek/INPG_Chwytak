@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="wzorek.wifitest.MainActivity">
+
+    <EditText
+        android:id="@+id/editTextPortNumber"
+        android:layout_width="0dp"
+        android:layout_height="47dp"
+        android:layout_marginTop="55dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Port"
+        app:layout_constraintLeft_toLeftOf="@+id/editTextIPAddress"
+        app:layout_constraintRight_toRightOf="@+id/editTextIPAddress"
+        app:layout_constraintTop_toBottomOf="@+id/title"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <SeekBar
+        android:id="@+id/AngleSeekbar"
+        android:layout_width="0dp"
+        android:layout_height="25dp"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        android:layout_marginStart="25dp"
+        android:layout_marginEnd="25dp"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        tools:layout_editor_absoluteY="199dp" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arduino Controller"
+        android:textSize="30sp"
+        tools:layout_constraintTop_creator="1"
+        tools:layout_constraintRight_creator="1"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginTop="16dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextIPAddress"
+        android:layout_width="215dp"
+        android:layout_height="47dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="IP Adress"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <SeekBar
+        android:id="@+id/Joint2Seekbar"
+        android:layout_width="0dp"
+        android:layout_height="27dp"
+        android:layout_marginBottom="112dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginStart="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1" />
+
+    <SeekBar
+        android:id="@+id/Joint1Seekbar"
+        android:layout_width="0dp"
+        android:layout_height="27dp"
+        android:layout_marginBottom="197dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginStart="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.68"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1" />
+
+    <TextView
+        android:id="@+id/AngleTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kąt przesunięcia"
+        android:textSize="18sp"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/AngleSeekbar"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        android:layout_marginBottom="6dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.099" />
+
+    <TextView
+        android:id="@+id/AngleText"
+        android:gravity="center"
+        android:layout_width="277dp"
+        android:layout_height="19dp"
+        android:layout_marginLeft="29dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="0dp"
+        android:text="Kąt wynosi : 0°"
+        app:layout_constraintLeft_toLeftOf="@+id/AngleTitle"
+        app:layout_constraintTop_toBottomOf="@+id/AngleSeekbar"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <TextView
+        android:id="@+id/Joint2Text"
+        android:layout_width="0dp"
+        android:layout_height="28dp"
+        android:layout_marginBottom="91dp"
+        android:gravity="center"
+        android:text="Kąt wynosi : 0°"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <TextView
+        android:id="@+id/Joint1Text"
+        android:layout_width="0dp"
+        android:layout_height="28dp"
+        android:layout_marginBottom="177dp"
+        android:gravity="center"
+        android:text="Kąt wynosi : 0°"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <Switch
+        android:id="@+id/SwitchSide"
+        android:layout_width="44dp"
+        android:layout_height="27dp"
+        android:layout_marginEnd="21dp"
+        android:layout_marginRight="21dp"
+        android:checked="false"
+        app:layout_constraintBottom_toTopOf="@+id/AngleSeekbar"
+        app:layout_constraintRight_toRightOf="@+id/AngleSeekbar"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintRight_creator="1" />
+
+    <TextView
+        android:id="@+id/SwitchText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lewo"
+        app:layout_constraintRight_toLeftOf="@+id/SwitchSide"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintBottom_creator="1"
+        app:layout_constraintBottom_toTopOf="@+id/AngleSeekbar"
+        android:layout_marginEnd="29dp"
+        android:layout_marginRight="7dp"
+        android:layout_marginBottom="10dp" />
+
+    <TextView
+        android:id="@+id/GrabTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Szczęki chwytaka"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="122dp"
+        tools:layout_editor_absoluteY="436dp" />
+
+    <TextView
+        android:id="@+id/Joint2Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drugie ramie"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="142dp"
+        tools:layout_editor_absoluteY="350dp" />
+
+    <TextView
+        android:id="@+id/Joint1Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pierwsze ramie"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+    <Switch
+        android:id="@+id/GrabMe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="458dp" />
+
+    <Button
+        android:id="@+id/Send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wyślij"
+        tools:layout_editor_absoluteX="266dp"
+        tools:layout_editor_absoluteY="89dp" />
+</android.support.constraint.ConstraintLayout>
