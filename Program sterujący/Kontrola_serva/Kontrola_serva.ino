@@ -1,4 +1,8 @@
 String odebrane = "";
+String angle = "";
+String joint1 = "";
+String joint2 = "";
+String grab = "";
 bool Grab = 0;
 int Angle = 0;
 int Joint1 = 0;
@@ -21,21 +25,22 @@ void loop()
   if(Serial.available() > 0) //Sprawdzanie czy Arduino odebralo dane
   {
      odebrane = Serial.readStringUntil('=');
-     zmienna = Serial.readStringUntil('\n');  //Oczytuje dane do znaku konca linii i  zapisuje w zmiennej
-     zmiana(odebrane,zmienna);
+     angle = Serial.readStringUntil(':');  //Oczytuje dane do znaku konca linii i  zapisuje w zmiennej
+     joint1 = Serial.readStringUntil(':');
+     joint2 = Serial.readStringUntil(':');
+     grab = Serial.readStringUntil(' ');
+     zmiana(angle,joint1,joint2,grab);
   }
 }
 
-void zmiana(String odebrane, String zmienna)
+void zmiana(String angle, String joint1, String joint2, String grab)
 {
-     if (odebrane == "Grab")
-     {
-      if(zmienna.toInt() == 1)
+      if(grab.toInt() == 1)
       {
         Serial.println("Chwytam");
           digitalWrite(11,HIGH);
       }else
-      if(zmienna.toInt() == 0)
+      if(grab.toInt() == 0)
       {
         Serial.println("Puszczam");
           digitalWrite(11,LOW);
@@ -43,17 +48,5 @@ void zmiana(String odebrane, String zmienna)
       {
         Serial.println("Nie rozumiem");
       }
-     }
-     if (odebrane == "Angle")
-     {
-        
-     }
-     if (odebrane == "Joint1")
-     {
-      
-     }
-     if (odebrane == "Joint2")
-     {
-      
-     }
+     
 }
