@@ -17,5 +17,9 @@
 29.05.17 - Zapoznanie się z wariantami sterowania podobnymi robotami w sieci.
 30.05.17 - Przyszły serwa. Złożyłem wszystko w całość i wykonałem pierwsze testy. Jutro wszystko wykalibruję.
 31.05.17 - Zamocowałem wszystko w takich położeniach w jakich będą pracować. Jutro napiszę jakiś podstawowy sterownik i spróbuję odpalić więcej niż 2 serwa na raz.
+<<<<<<< HEAD
 2.06.17 - Arduino daje radę zasilić 2 serwa na raz, nie wiem jak z 3. Spotykamy się wszyscy wspólnie i omawiamy postępy i plan na ostatni weekend. Jutro: zasilenie 3 serw.
 3.06.17 - Arduino radzi sobie całkiem nieźle z 2 serwami, ale przy 3 pojawiają się chwilowe spadki napięcia, co przekłada się na nagłą  zmianę wartości odczytywanych z joysticka i potencjometru, co powoduje specyficzne drżenie ramienia. Jutro: przelutowanie kabla od ładowarki telefonowej dostarczającej 2A natężenia tak aby można ją było wpiąć do płytki protorypowej. Gdy palikacja będzie gotowa - połączenie wszystkiego w całość i przetestowanie.
+=======
+1.06.17 - Przygotowałem kabel do zasilania i 2 serwa działają. Jutro: Wspólne spotkanie i ogarnianie całego projektu
+>>>>>>> c9725ee8505e3befd7362a0f476f499a8006183b
