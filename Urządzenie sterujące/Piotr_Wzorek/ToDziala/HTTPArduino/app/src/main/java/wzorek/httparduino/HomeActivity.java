@@ -209,11 +209,7 @@ public class HomeActivity extends Activity implements View.OnClickListener {
         editor.putString(PREF_IP, ipAddress); // set the ip address value to save
         editor.putString(PREF_PORT, portNumber); // set the port number to save
         editor.commit(); // save the IP and PORT
-
-        if(view.getId()==Send.getId())
-        {
-            parameterValue = angle_value+":"+joint1_value+":"+joint2_value+":"+grab_value;
-        }
+        parameterValue = (angle_value+":"+joint1_value+":"+joint2_value+":"+grab_value);
 
         // execute HTTP request
         if(ipAddress.length()>0 && portNumber.length()>0) {
