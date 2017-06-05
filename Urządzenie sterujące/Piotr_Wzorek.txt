@@ -1,4 +1,10 @@
-﻿Czwartek - 1.06
+﻿Piątek - 2.06
+Stworzenie działającej i sprawnej apkilacji do sterowania chwytakiem. I NAPRAWDE DZIAŁA!
+
+Plan na poniedziałek:
+Testy, eliminacja błędów, oddanie projektu, odebranie uroczystego uścisku dłoni i 5.0.
+***********************************************************************************************************
+Czwartek - 1.06
 Stworzenie joystika. Radzenie sobię z problemami w kompilacji. Porażka. Stworzenie nowego
 przystępnego layoutu.
 
